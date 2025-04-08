@@ -4,5 +4,6 @@ def sayHello(name):
     
 
 inName = 'Tom'
-print(sayHello(inName))
+lastName = 'Brown'
+print(sayHello(inName + ' ' + lastName))
 print("main에 브랜치 추가")
