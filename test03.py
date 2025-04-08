@@ -3,6 +3,6 @@ def sayHello(name):
     return 'Hello, ' + name + '!'
     
 
-inName = 'Tom'
+inName = 'Tom Brown'
 print(sayHello(inName))
-print("main에 브랜치 추가")
+print("main 브랜치에서 새로운 커밋 생성")
